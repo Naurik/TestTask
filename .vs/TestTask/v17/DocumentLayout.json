@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Naurik\\source\\repos\\TestTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3797F6-DF5F-4BA7-9D03-3D195DB17C0B}|TestTask\\TestTask.csproj|c:\\users\\naurik\\source\\repos\\testtask\\testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3797F6-DF5F-4BA7-9D03-3D195DB17C0B}|TestTask\\TestTask.csproj|solutionrelative:testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3797F6-DF5F-4BA7-9D03-3D195DB17C0B}|TestTask\\TestTask.csproj|c:\\users\\naurik\\source\\repos\\testtask\\testtask\\models\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3797F6-DF5F-4BA7-9D03-3D195DB17C0B}|TestTask\\TestTask.csproj|solutionrelative:testtask\\models\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyList.cs",
+              "DocumentMoniker": "C:\\Users\\Naurik\\source\\repos\\TestTask\\TestTask\\Models\\MyList.cs",
+              "RelativeDocumentMoniker": "TestTask\\Models\\MyList.cs",
+              "ToolTip": "C:\\Users\\Naurik\\source\\repos\\TestTask\\TestTask\\Models\\MyList.cs",
+              "RelativeToolTip": "TestTask\\Models\\MyList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:09:39.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naurik\\source\\repos\\TestTask\\TestTask\\Program.cs",
+              "RelativeDocumentMoniker": "TestTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Naurik\\source\\repos\\TestTask\\TestTask\\Program.cs",
+              "RelativeToolTip": "TestTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:08:34.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
